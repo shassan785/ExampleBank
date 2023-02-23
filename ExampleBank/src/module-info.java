@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sadiahassan
+ *
+ */
+module ExampleBank {
+}
