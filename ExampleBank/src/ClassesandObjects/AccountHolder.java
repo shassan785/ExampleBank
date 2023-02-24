@@ -7,7 +7,8 @@ public class AccountHolder {
 	float accountBalance;
 	boolean eligibilityForCreditCard;
 
-	private void testEligibilityForCreditCard() {
+	public void testEligibilityForCreditCard() {
+		
 		if(age>25 && accountBalance>=20000) {
 			eligibilityForCreditCard=true;
 		}
